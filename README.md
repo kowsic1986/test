@@ -2,3 +2,4 @@
 Hello cloud guru
 Hello hello
 pulling changes
+fetch & merge
